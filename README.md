@@ -11,7 +11,7 @@ MyRoom is a Hotel management web application.
                 type="video/mov" />
 </video>
 
-https://github.com/pawanpk87/MyRoom/assets/87040096/ad4b4ebe-26a0-4051-b3dc-e6080c69d7d5
+<!-- https://github.com/pawanpk87/MyRoom/assets/87040096/ad4b4ebe-26a0-4051-b3dc-e6080c69d7d5 -->
 
 <!-- Screenshots -->
 

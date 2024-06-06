@@ -10,15 +10,19 @@ https://github.com/SaurabhKrSing/Hotel-Management-System/assets/90236936/32c2558
 
 ### :camera: Screenshots(MyRoom dashboard)
 
-<img width="1511" alt="Screenshot" src="https://github.com/pawanpk87/MyRoom/assets/87040096/375a3071-8442-41c1-8a00-2a71d588a1c7">
-<img width="1511" alt="Screenshot" src="https://github.com/pawanpk87/MyRoom/assets/87040096/a61b1b8f-6094-4a22-9575-ed62245530db">
-<img width="1511" alt="Screenshot" src="https://github.com/pawanpk87/MyRoom/assets/87040096/4f2f425d-1066-45ec-a559-c5ef49adab63">
+<img width="1511" alt="dashboard_1" src="https://github.com/SaurabhKrSing/Hotel-Management-System/assets/90236936/406887cf-a005-40d7-bdb1-4badeecd25a7">
+<br />
+<img width="1511" alt="dashboard_2" src="https://github.com/SaurabhKrSing/Hotel-Management-System/assets/90236936/3d108ae0-2d34-4fa4-a2b6-ff7f9710d0bf">
+<br />
+<img width="1511" alt="dashboard_3" src="https://github.com/SaurabhKrSing/Hotel-Management-System/assets/90236936/43a2227d-7dbb-4366-bb42-425db4c371c4">
 
 ### :camera: Screenshots(MyRoom client)
 
-<img width="1511" alt="Screenshot" src="https://github.com/pawanpk87/MyRoom/assets/87040096/26c4a823-de24-4b9d-87d7-1a60cfe49fe1">
-<img width="1511" alt="Screenshot" src="https://github.com/pawanpk87/MyRoom/assets/87040096/86d495ef-3f3e-4fd4-b066-8ed29ae8b80c">
-<img width="1511" alt="Screenshot" src="https://github.com/pawanpk87/MyRoom/assets/87040096/f29d2314-1a1d-4dab-8b3d-168db1d5a7a6">
+<img width="1511" alt="client_1" src="https://github.com/SaurabhKrSing/Hotel-Management-System/assets/90236936/5226ec82-b8fa-4815-a286-f2c34b67c40a">
+<br />
+<img width="1511" alt="client_2" src="https://github.com/SaurabhKrSing/Hotel-Management-System/assets/90236936/25ae1563-617d-4fa2-bd07-a83c17756f25">
+<br />
+<img width="1511" alt="client_3" src="https://github.com/SaurabhKrSing/Hotel-Management-System/assets/90236936/19991720-6a3f-466b-b810-a8428ebc7133">
 
 ### :space_invader: Tech Stack
 

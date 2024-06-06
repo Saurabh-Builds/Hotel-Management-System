@@ -2,14 +2,7 @@
 
 MyRoom is a Hotel management web application.
 
-<video width="500px" 
-           height="400px" 
-           controls="controls">
-
-<source src=
-"Readme_assects/MyRoom- Hotel management web application.mov" 
-                type="video/mov" />
-</video>
+https://github.com/SaurabhKrSing/Hotel-Management-System/assets/90236936/32c25589-def9-45c6-b289-0375481ecefe
 
 <!-- https://github.com/pawanpk87/MyRoom/assets/87040096/ad4b4ebe-26a0-4051-b3dc-e6080c69d7d5 -->
 
